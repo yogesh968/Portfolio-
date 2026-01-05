@@ -21,14 +21,14 @@ export default function About() {
 
           <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
             <p>
-              I'm a Full-Stack Developer with a strong foundation in AI & ML,
-              currently pursuing my Bachelor's degree at Newton School of
+              I&apos;m a Full-Stack Developer with a strong foundation in AI & ML,
+              currently pursuing my Bachelor&apos;s degree at Newton School of
               Technology, ADYPU. My journey in software development has been
               driven by a passion for building scalable applications that solve
               real-world problems.
             </p>
             <p>
-              With experience at TopSqill as a Full-Stack Developer, I've
+              With experience at TopSqill as a Full-Stack Developer, I&apos;ve
               worked on production-ready applications using React, Node.js, and
               Express. I focus on creating reusable components, efficient state
               management, and seamless collaboration with cross-functional teams.
@@ -36,12 +36,12 @@ export default function About() {
             <p>
               My approach combines technical expertise with thoughtful UI/UX
               design, ensuring that every application I build is not only
-              functional but also intuitive and user-friendly. I'm committed to
+              functional but also intuitive and user-friendly. I&apos;m committed to
               continuous learning and contributing to the open-source community,
               with several successful contributions to projects like Mongoose.
             </p>
             <p>
-              Whether it's leading a team in hackathons, building offline-first
+              Whether it&apos;s leading a team in hackathons, building offline-first
               mobile applications, or developing real-time collaborative
               platforms, I thrive on challenges that push me to grow and
               innovate.

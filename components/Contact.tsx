@@ -78,7 +78,7 @@ export default function Contact() {
           <h2 className="text-4xl sm:text-5xl font-bold mb-4">Get in Touch</h2>
           <div className="h-px w-20 bg-foreground mx-auto mb-6"></div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            I'm always open to discussing new opportunities, interesting
+            I&apos;m always open to discussing new opportunities, interesting
             projects, or just having a conversation about technology.
           </p>
         </motion.div>
